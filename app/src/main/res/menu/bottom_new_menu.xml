@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/listFragment"
+        android:icon="@android:drawable/arrow_down_float"
+        android:title=".listado" />
+    <item
+        android:id="@+id/compatibilityFragment"
+        android:icon="@android:drawable/ic_input_add"
+        android:title=".compatibilidad" />
+    <item
+        android:id="@+id/informationFragment"
+        android:icon="@android:drawable/ic_popup_disk_full"
+        android:title=".compatibilidad" />
+
+</menu>
